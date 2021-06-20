@@ -21,9 +21,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/rainyday321/rainyday321">
     <img src="https://my-stats-dxc5zyis5.vercel.app/api?username=rainyday321&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="Boob" height="150"  />
   </a>
-  <a href="https://github.com/rainyday321/rainyday321">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rainyday321&langs_count=6&layout=compact&theme=gruvbox&count_private=true&hide_title=false&card_width=445" alt="Yee Han's most used languages" height="150" />
-  </a>
+  
 </div>
 
 
